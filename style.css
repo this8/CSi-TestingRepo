@@ -34,3 +34,14 @@ h1 {
     color: aliceblue;
     text-align: center;
 }
+.footer{
+    background-color: black;
+    width: 100%;
+    height: fit-content;
+    text-align: center;
+    text-decoration: blanchedalmond;
+
+}
+.footer_contain{
+    color: blanchedalmond;
+}
