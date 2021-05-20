@@ -3,3 +3,23 @@ div {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: black;
 }
+
+.div1 {
+    color: red;
+}
+
+.div2 {
+    color: green;
+}
+
+.div3 {
+    color: blue;
+}
+
+.div4 {
+    color: palevioletred;
+}
+
+.div5 {
+    color: purple;
+}
